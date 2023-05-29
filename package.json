@@ -1,6 +1,6 @@
 {
     "name": "json-uuid",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This is a toolkit for generating JSON unique IDs",
     "main": "index.js",
     "scripts": {
@@ -19,7 +19,11 @@
     "keywords": [
         "json",
         "uuid",
-        "json uuid"
+        "json uuid",
+        "jsonid",
+        "json-uuid",
+        "jsonuuid",
+        "json id"
     ],
     "dependencies": {
         "crypto-js": "^4.1.1",
