@@ -1,6 +1,9 @@
 # json-uuid
 This is a toolkit for generating JSON unique IDs
 
+[![NPM version](https://img.shields.io/npm/v/json-uuid.svg?style=flat-square)](https://npmjs.org/package/json-uuid)
+[![NPM download](https://img.shields.io/npm/dm/json-uuid.svg?style=flat-square)](https://npmjs.org/package/json-uuid)
+[![Github stars](https://img.shields.io/github/stars/hootinwang/json-uuid?style=social)](https://github.com/hootinwang/json-uuid)
 # Usage examples
 ```javascript
 const jsonuuid = require('json-uuid')
