@@ -1,0 +1,29 @@
+{
+    "name": "json-uuid",
+    "version": "1.0.0",
+    "description": "This is a toolkit for generating JSON unique IDs",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./tests/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hootinwang/json-uuid.git"
+    },
+    "author": "HootinWang",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hootinwang/json-uuid/issues"
+    },
+    "homepage": "https://github.com/hootinwang/json-uuid#readme",
+    "keywords": [
+        "json",
+        "uuid",
+        "json uuid"
+    ],
+    "dependencies": {
+        "crypto-js": "^4.1.1",
+        "lodash": "^4.17.21",
+        "md5": "^2.3.0"
+    }
+}
